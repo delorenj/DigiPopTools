@@ -1,5 +1,14 @@
 {
   "project_name": "DigiPop",
   "project_description": "Workflow tools to help DigiPop create editable assets",
-  "project_slug": "digipop"
+  "project_id": "digipop",
+  "repo_path": "/home/delorenj/code/DigiPop",
+  "ticket_provider": {
+    "type": "plane",
+    "workspace": "",
+    "identifier": "",
+    "board_id": "",
+    "state": "planned"
+  },
+  "agents": {}
 }
