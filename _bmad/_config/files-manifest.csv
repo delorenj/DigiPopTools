@@ -411,4 +411,3 @@ type,name,module,path,hash
 "py","render_skill","scripts","scripts/render_skill.py","8496d0d8b449d64c21b42a9aab3b13fc8a813a430c0695ffd84ad75bb1da7942"
 "py","resolve_config","scripts","scripts/resolve_config.py","fc78866fd42862d486d4346d2b35705f916a19e6c07bb474f8add25c71734a8e"
 "py","resolve_customization","scripts","scripts/resolve_customization.py","9b5124e0b781823a015a19d6cf5db52bbc34b6bab41c036fd1b3d464c2a137cd"
-"yaml","config","skf","skf/config.yaml","ed354d5607e5445292c32075c39e96fcf229ee9f177e919f0e48ee25efd2d779"
